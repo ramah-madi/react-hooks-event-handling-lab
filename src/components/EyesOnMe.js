@@ -1,5 +1,4 @@
 // Code EyesOnMe Component Here
-import { useState } from "react"
 function EyesOnMe(){
   function handleFocus(){
     console.log("Good!");
